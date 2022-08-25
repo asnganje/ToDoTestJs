@@ -1,7 +1,7 @@
 import './style.css';
 import Task from './task.js';
 import storeTask from './taskService.js';
-import manipulateInterface from './uIDisplay';
+import manipulateInterface from './uIDisplay.js';
 
 const addtaskInput = document.querySelector('.additem');
 
