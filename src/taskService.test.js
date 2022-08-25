@@ -32,7 +32,7 @@ describe('saveTask()', () => {
     // Assert
     expect(output).toStrictEqual(expected);
   });
-  it('saveTask must start from inde one', () => {
+  it('saveTask must start from index one', () => {
     // Arrange
     const tasks = [];
     const newTask = {
