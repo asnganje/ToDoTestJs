@@ -119,8 +119,6 @@ describe('removeTask()', () => {
   });
 
 });
-=======
-});
 
 // Unit-Test for removeTask
 describe('removeTask()', () => {
@@ -187,4 +185,3 @@ describe('removeTask()', () => {
     expect(output).toStrictEqual(expected);
   });
 });
->>>>>>> c6b33d29f911cf2b49193219d6412a04865aec15
