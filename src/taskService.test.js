@@ -117,7 +117,4 @@ describe('removeTask()', () => {
     // Assert
     expect(output).toStrictEqual(expected);
   });
-
 });
-
-
