@@ -1,23 +1,4 @@
 {
-<<<<<<< HEAD
-    "connector": {
-      "name": "local",
-      "options": {
-        "pattern": ["**", "!.git/**", "!node_modules/**"]
-      }
-    },
-    "extends": ["development"],
-    "formatters": ["stylish"],
-    "hints": [
-      "button-type",
-      "disown-opener",
-      "html-checker",
-      "meta-charset-utf-8",
-      "meta-viewport",
-      "no-inline-styles:error"
-    ]
-  }
-=======
   "connector": {
     "name": "local",
     "options": {
@@ -35,4 +16,3 @@
     "no-inline-styles:error"
   ]
 }
->>>>>>> c6b33d29f911cf2b49193219d6412a04865aec15
